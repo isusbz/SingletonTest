@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Hardkey.qml</file>
+        <file>Datapool.qml</file>
+    </qresource>
+</RCC>
